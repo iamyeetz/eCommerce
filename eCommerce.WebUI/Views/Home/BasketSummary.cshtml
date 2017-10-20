@@ -1,0 +1,40 @@
+﻿@model eCommerce.ViewModel.ViewCustomerBasketModel
+
+@{
+    ViewBag.Title = "BasketSummary";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@*@foreach(var a in Model.ListShit)
+{
+   <p>@a.imageurl</p>
+
+}*@
+<table>
+    <thead>
+    <td>Image</td>
+    <td>Description</td>
+    <td>Quantity</td>
+
+    </thead>
+    @foreach (var item in Model.ListShit)
+    {
+
+
+     
+        <tr>
+            <td width="20%">
+                <img width="25%" src="/images/@item.imageurl" alt="@item.description" />
+            </td>
+            <td>
+                @Html.ActionLink(item.description, "Description", new { id = item.description })
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.quantity)
+            </td>
+
+        </tr>
+    }
+</table>

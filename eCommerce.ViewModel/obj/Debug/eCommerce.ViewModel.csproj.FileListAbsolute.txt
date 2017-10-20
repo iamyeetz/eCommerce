@@ -1,0 +1,7 @@
+C:\Users\YEETZ\Desktop\Tutorial_projects\eCommerce\eCommerce.ViewModel\bin\Debug\eCommerce.ViewModel.dll
+C:\Users\YEETZ\Desktop\Tutorial_projects\eCommerce\eCommerce.ViewModel\bin\Debug\eCommerce.ViewModel.pdb
+C:\Users\YEETZ\Desktop\Tutorial_projects\eCommerce\eCommerce.ViewModel\obj\Debug\eCommerce.ViewModel.dll
+C:\Users\YEETZ\Desktop\Tutorial_projects\eCommerce\eCommerce.ViewModel\obj\Debug\eCommerce.ViewModel.pdb
+C:\Users\YEETZ\Desktop\Tutorial_projects\eCommerce\eCommerce.ViewModel\bin\Debug\eCommerce.Model.dll
+C:\Users\YEETZ\Desktop\Tutorial_projects\eCommerce\eCommerce.ViewModel\bin\Debug\eCommerce.Model.pdb
+C:\Users\YEETZ\Desktop\Tutorial_projects\eCommerce\eCommerce.ViewModel\obj\Debug\eCommerce.ViewModel.csprojResolveAssemblyReference.cache

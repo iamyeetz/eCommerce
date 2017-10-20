@@ -1,0 +1,15 @@
+C:\Users\FPTIN02282017B-USER\Desktop\CMP_DONOTDELETE\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+C:\Users\FPTIN02282017B-USER\Desktop\CMP_DONOTDELETE\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+C:\Users\FPTIN02282017B-USER\Desktop\CMP_DONOTDELETE\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+C:\Users\FPTIN02282017B-USER\Desktop\CMP_DONOTDELETE\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
+C:\Users\FPTIN02282017B-USER\Desktop\CMP_DONOTDELETE\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojResolveAssemblyReference.cache
+C:\Users\ChristopherMPalisoc\Desktop\CMP_ASP\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+C:\Users\ChristopherMPalisoc\Desktop\CMP_ASP\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+C:\Users\ChristopherMPalisoc\Desktop\CMP_ASP\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+C:\Users\ChristopherMPalisoc\Desktop\CMP_ASP\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
+C:\Users\ChristopherMPalisoc\Desktop\CMP_ASP\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll.CodeAnalysisLog.xml
+C:\Users\ChristopherMPalisoc\Desktop\CMP_ASP\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll.lastcodeanalysissucceeded
+C:\Users\YEETZ\Desktop\Tutorial_projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+C:\Users\YEETZ\Desktop\Tutorial_projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+C:\Users\YEETZ\Desktop\Tutorial_projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+C:\Users\YEETZ\Desktop\Tutorial_projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
